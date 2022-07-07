@@ -1,8 +1,8 @@
-# Ruby Course Projects
+# RUBY COURSE PROJECTS
 
 ## Introduction
  ```
-Full ruby course applied projects to master ruby full-stack.
+FULL RUBY COURSE APPLIED PROJECTS TO MASTER RUBY FULL-STACK.
  ```
 ---
 ## Fundamentals
